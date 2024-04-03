@@ -18,7 +18,7 @@
             <span class="text-muted">Для продолжения работы необходимо пройти авторизацию</span>
             </h4>
         <hr>
-        <button class="btn btn-outline-primary col-12 col-md-6">Войти</button>
+        <Button />
         <hr>
           </div>
       </div>
@@ -32,6 +32,7 @@
 
 <script setup>
 
+import Button from "@/components/Button.vue";
 </script>
 
 
